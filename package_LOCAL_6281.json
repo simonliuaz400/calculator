@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "calculator-for hotfix ",
-=======
-  "name": "calculator - for userstory2",
->>>>>>> userstory2
   "version": "1.0.0",
   "description": "Calculator",
   "repository": {
